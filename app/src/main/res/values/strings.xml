@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title1">monalisa</string>
+    <string name="author1">leonardo da vinci</string>
+    <string name="year1">(1503)</string>
+    <string name="title2">The persistence of memory</string>
+    <string name="author2">Richard Dawkins</string>
+    <string name="year2">(1976)</string>
+    <string name="title3">The starry night</string>
+    <string name="author3">vincet van gogh</string>
+    <string name="year3">(1889)</string>
+    <string name="title4">The Scream</string>
+    <string name="author4">Edvard munch</string>
+    <string name="year4">(1893)</string>
+</resources>
